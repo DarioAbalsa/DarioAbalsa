@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi there 👋, I am Dario
+- 🌱 I’m currently learning informatica 2 (C/C++)
+- 🤔 I’m looking for help with Listas enlazadas
+- 🤔 I’m looking for new job opportunities.
+- 🔭 I’m currently working on oximeter
+- 📫 How to reach me: dario dot abalsa at alumnos dot frm dot utn dot edu dot ar
+- 😄 Pronouns: his/he 
 <!--
 **DarioAbalsa/DarioAbalsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
